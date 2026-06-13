@@ -39,7 +39,7 @@ export function Nav() {
   return (
     <nav className="sticky top-0 z-50 bg-black light:bg-white">
       <div className="grid grid-cols-2 items-center h-9 px-4 md:px-6 text-[13px] gap-0">
-        <Link href="/" className="text-white light:text-black font-bold hover:text-muted transition-colors">
+        <Link href="/" className="text-white light:text-black font-semibold hover:text-muted transition-colors">
           FN Interior
         </Link>
 

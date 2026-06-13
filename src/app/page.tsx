@@ -11,7 +11,7 @@ export default function Home() {
       {/* Hero */}
       <section className="md:min-h-[calc(100dvh-36px)] grid grid-cols-1 md:grid-cols-2 gap-y-6 md:gap-y-8 px-4 md:px-6 pt-4 pb-16">
         <div>
-          <h1 className="text-[22px] md:text-[28px] font-normal leading-tight">
+          <h1 className="text-[22px] md:text-[28px] font-medium md:font-normal leading-tight">
             Interior design studio in Palma
           </h1>
         </div>
